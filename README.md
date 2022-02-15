@@ -1,0 +1,2 @@
+# csharp-arrayPatika
+Notes
